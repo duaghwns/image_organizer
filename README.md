@@ -15,10 +15,23 @@
 - ✅ 덮어쓰기 허용 옵션
 - ✅ 진행률 표시
 
-## 🖥️ 실행 방법
 
-Python 3.8 이상이 필요합니다.
+## 💡 실행 방법
+1. 아래의 `image_organizer.exe` 파일을 다운로드
+2. 압축이 있다면 해제 후 실행
+3. 폴더를 창에 드래그해서 사용
 
-```bash
-pip install pillow tkinterdnd2
-python image_organizer.py
+[![Download EXE](https://img.shields.io/badge/Download%20Image_Organizer-v1.0.0-blueviolet?style=for-the-badge&logo=files)](https://github.com/duaghwns/image_organizer/releases/download/v1.0.0/image_organizer.exe)
+
+
+> ※ Windows SmartScreen 경고가 나타날 수 있습니다.  
+> '추가 정보' 클릭 후 '실행'을 선택하면 됩니다.
+
+
+
+## 📬 Contact
+
+- 💌 Email: [5-5-5-5@nave.com](mailto:5-5-5-5@naver.com)
+- 📸 Instagram: [@duaghwns](https://instagram.com/duaghwns)
+- 📝 Blog: [Naver Blog](https://blog.naver.com/5-5-5-5)
+- ☕ 후원 계좌: **토스뱅크 1000-0355-6332 (염\*준)**
