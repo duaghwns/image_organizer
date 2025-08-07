@@ -23,11 +23,12 @@
 
 [![Download EXE](https://img.shields.io/badge/Download%20Image_Organizer-v1.0.0-blueviolet?style=for-the-badge&logo=files)](https://github.com/duaghwns/image_organizer/releases/download/1.0.0/image_organizer_v1.0.zip)
 
+📦 압축 파일에는 실행 파일이 포함되어 있어 Windows Defender에서 오탐지할 수 있습니다.
 
-> ※ Windows SmartScreen 경고가 나타날 수 있습니다.  
-> '추가 정보' 클릭 후 '실행'을 선택하면 됩니다.
+🔐 압축 해제 비밀번호: `1234`
 
-
+> SmartScreen 또는 Defender에서 경고가 발생할 경우,
+> '추가 정보' → '실행' 또는 예외 등록 후 사용하시면 됩니다.
 
 ## 📬 Contact
 
