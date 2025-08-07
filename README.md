@@ -4,7 +4,7 @@
 확장자 또는 날짜 기준으로 JPG/RAW 파일을 자동 분류하고,  
 파일명을 유지하거나 일련번호 또는 촬영일자로 재정렬할 수 있습니다.
 
-![UI](https://github.com/사용자ID/저장소명/assets/your-screenshot.png) <!-- 실행 화면이 있다면 여기에 스크린샷 URL 추가 -->
+![UI](https://github.com/duaghwns/image_organizer/image_organizer.png)
 
 ## 🔧 주요 기능
 
