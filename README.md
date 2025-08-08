@@ -32,7 +32,6 @@
 
 ## 📬 Contact
 
-- 💌 Email: [5-5-5-5@nave.com](mailto:5-5-5-5@naver.com)
+- 💌 Email: [5-5-5-5@naver.com](mailto:5-5-5-5@naver.com)
 - 📸 Instagram: [@duaghwns](https://instagram.com/duaghwns)
 - 📝 Blog: [Naver Blog](https://blog.naver.com/5-5-5-5)
-- ☕ 후원 계좌: **토스뱅크 1000-0355-6332 (염\*준)**
