@@ -17,8 +17,7 @@
 
 
 ## 💡 실행 방법
-1-1. Window -> 아래의 `image_organizer window` 파일을 다운로드
-1-2. Mac -> 아래의 `Image_Organizer mac` 파일을 다운로드
+1. Window -> `image_organizer window` | Mac ->  `image_organizer mac` 다운로드
 2. 압축이 있다면 해제 후 실행
 3. 폴더를 창에 드래그해서 사용
 
