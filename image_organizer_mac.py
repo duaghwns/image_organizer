@@ -11,7 +11,7 @@ from PIL import Image, ExifTags
 import sys
 import webbrowser
 
-JPG_EXTS = {'.jpg', '.jpeg', '.png'}
+JPG_EXTS = {'.jpg', '.jpeg', '.png', 'hiff'}
 RAW_EXTS = {
     '.cr2', '.cr3',  # Canon
     '.nef', '.nrw',  # Nikon
@@ -290,4 +290,5 @@ def create_ui():
     root.mainloop()
 
 if __name__ == "__main__":
+
     create_ui()
