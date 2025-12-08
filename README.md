@@ -23,6 +23,9 @@
 
 [![Download EXE](https://img.shields.io/badge/Download%20Image_Organizer-v1.0.0-blueviolet?style=for-the-badge&logo=files)](https://github.com/duaghwns/image_organizer/releases/download/1.0.0/image_organizer_v1.0.zip)
 
+[![Download EXE](https://img.shields.io/badge/Download%20Image_Organizer-v1.0.0-blueviolet?style=for-the-badge&logo=files)](https://github.com/duaghwns/image_organizer/releases/download/1.0.0/Image.Organizer_Mac.app.zip
+)
+
 📦 압축 파일에는 실행 파일이 포함되어 있어 Windows Defender에서 오탐지할 수 있습니다.
 
 🔐 압축 해제 비밀번호: `1234`
