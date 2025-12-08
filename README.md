@@ -17,7 +17,8 @@
 
 
 ## 💡 실행 방법
-1. 아래의 `image_organizer.exe` 파일을 다운로드
+1-1. Window -> 아래의 `image_organizer_v1.0.zip` 파일을 다운로드
+1-2. Mac -> 아래의 `Image_Organizer_Installer.dmg` 파일을 다운로드
 2. 압축이 있다면 해제 후 실행
 3. 폴더를 창에 드래그해서 사용
 
@@ -32,9 +33,3 @@
 
 > SmartScreen 또는 Defender에서 경고가 발생할 경우,
 > '추가 정보' → '실행' 또는 예외 등록 후 사용하시면 됩니다.
-
-## 📬 Contact
-
-- 💌 Email: [5-5-5-5@naver.com](mailto:5-5-5-5@naver.com)
-- 📸 Instagram: [@duaghwns](https://instagram.com/duaghwns)
-- 📝 Blog: [Naver Blog](https://blog.naver.com/5-5-5-5)
